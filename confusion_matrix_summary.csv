@@ -1,0 +1,4 @@
+"Model","True_Negative","False_Positive","False_Negative","True_Positive"
+"Logistic Regression",1161,158,4,40
+"Random Forest",1246,73,13,31
+"Neural Network",1234,85,14,30

@@ -1,0 +1,23 @@
+"Rank","Feature","Selection","RF_Gini_Importance","LR_Coefficient"
+1,"Net.Income.to.Total.Assets","Random Forest Importance",612.5691,-2.606
+2,"Continuous.interest.rate..after.tax.","Random Forest Importance",539.5231,-1.7364
+3,"Persistent.EPS.in.the.Last.Four.Seasons","Random Forest Importance",411.0438,-2.2031
+4,"Pre.tax.net.Interest.Rate","Random Forest Importance",353.0861,1.8086
+5,"Total.income.Total.expense","Random Forest Importance",347.0691,-7.5404
+6,"Retained.Earnings.to.Total.Assets","Random Forest Importance",346.7008,0.2541
+7,"Total.debt.Total.net.worth","Random Forest Importance",306.9192,0.095
+8,"Borrowing.dependency","Random Forest Importance",292.862,0.5807
+9,"Net.profit.before.tax.Paid.in.capital","Random Forest Importance",238.5378,-0.594
+10,"Per.Share.Net.profit.before.tax..Yuan.Â..","Random Forest Importance",205.5384,0.5473
+11,"Net.worth.Assets","Random Forest Importance",202.3363,NA
+12,"Debt.ratio..","Random Forest Importance",184.9663,1.6916
+13,"Interest.bearing.debt.interest.rate","Random Forest Importance",173.3713,-0.086
+14,"ROA.C..before.interest.and.depreciation.before.interest","Random Forest Importance",160.8065,-0.3809
+15,"Quick.Ratio","Random Forest Importance",158.7927,0.0153
+16,"Cash.Turnover.Rate","Random Forest Importance",157.8873,-0.4365
+17,"Equity.to.Liability","Random Forest Importance",150.9674,0.1503
+18,"ROA.A..before.interest.and...after.tax","Random Forest Importance",148.1373,2.3407
+19,"Interest.Expense.Ratio","Random Forest Importance",146.97,0.0325
+20,"ROA.B..before.interest.and.depreciation.after.tax","Random Forest Importance",140.4055,-0.307
+21,"Liability.Assets.Flag","Forced (theoretical)",1.0121,-2.2659
+22,"Net.Income.Flag","Forced (theoretical)",0,NA
